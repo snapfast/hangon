@@ -2,7 +2,7 @@
 
 **App Name:** Hang On
 
-**Target Audience:** People who want to develop positive habits and manage their time effectively.
+**Target Audience:** People who want to develop positive habits and manage their time effectively. It should ask every night before bed, what you did today and did you complete the list of things already added in the app ?
 
 **Features:**
 
